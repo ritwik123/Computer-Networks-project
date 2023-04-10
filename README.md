@@ -1,4 +1,4 @@
->Author Details
+>#**Author Details**
 >>Ritwik Raj
 >>
 >>Course : Computer Networks 5th Semester Project
@@ -6,7 +6,7 @@
 >>Organisation : Manipal Institute Of Technology, Manipal
 >>
 
->How to run Client and Server file:
+>**How to run Client and Server file:**
 >>First compile the server.c file and run using this format : ./server portnumber(any range except 0-1023)
 >>
 >>Then compile the client.c file and run using this format : ./client 127.0.0.1 portnumber(same as written on server side)
