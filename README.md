@@ -1,9 +1,9 @@
 >***Author Details***
->>*Ritwik Raj
+>>-Ritwik Raj
 >>
->>*Course : Computer Networks 5th Semester Project
+>>-Course : Computer Networks 5th Semester Project
 >>
->>*Organisation : Manipal Institute Of Technology, Manipal
+>>-Organisation : Manipal Institute Of Technology, Manipal
 >>
 
 >**How to run Client and Server file:**
